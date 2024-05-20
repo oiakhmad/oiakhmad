@@ -3,13 +3,13 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-As a web developer with more than 3 years of experience, I have .\
-expertise in software development. I specialize in system management .\
-with a deep understanding of the latest technologies. My skills .\
-encompass both front-end and back-end development, as well as API .\
-integration to create efficient and user-friendly solutions. I am confident .\
-in my abilities and experience to deliver high-quality code and enhance .\
-the user experience. .\
+As a web developer with more than 3 years of experience, I have \
+expertise in software development. I specialize in system management \
+with a deep understanding of the latest technologies. My skills \
+encompass both front-end and back-end development, as well as API \
+integration to create efficient and user-friendly solutions. I am confident \
+in my abilities and experience to deliver high-quality code and enhance \
+the user experience. 
 
 📫 &nbsp;Please feel free to contact me for consulting or volunteering opportunities, or simply for an engaging discussion. You can reach me via email akhmad.py@gmail.com .\
 
@@ -56,10 +56,7 @@ the user experience. .\
 <a href="mailto:akhmad.py@gmail.com"><img src="https://img.shields.io/badge/-akhmad.py@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/candrasujarwadi/" target="_blank"><img src="https://img.shields.io/badge/-@candrasujarwadi-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
-<!--
 
-Here are some ideas to get you started:
- -->
 <!-- - 🔭 I’m currently working on ...  -->
 <!-- - 🌱 I’m currently learning ...  -->
 <!-- - 👯 I’m looking to collaborate on ...  -->
