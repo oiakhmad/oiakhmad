@@ -1,5 +1,4 @@
 <img alt="Night Coding" src="./assets/Night-Coding.gif" align="right"/>
-<iframe src="https://giphy.com/embed/3kPDmoWdBpQPNhCnUG" align="right" width="480" height="384" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/siwaOnlineGmbH-siwa-siwi-hagenberg-3kPDmoWdBpQPNhCnUG">via GIPHY</a></p>
 <img alt="Night Coding" src="./assets/Hand Wave.gif" width='40' align="left"/><h2>Hey there! I'm Zul </h2>
 
 ### 👨🏻‍💻 &nbsp;About Me
