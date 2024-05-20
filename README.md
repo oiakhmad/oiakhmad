@@ -1,10 +1,5 @@
-### Hi there 👋
-
 <img alt="Night Coding" src="./assets/Night-Coding.gif" align="right"/>
-
-<img alt="Night Coding" src="./assets/Hand Wave.gif" width='40' align="left"/><h2>Hey there! I'm Deddy</h2>
-
-<!-- ### 👋 &nbsp;Hey there! I'm Zul -->
+<img alt="Night Coding" src="./assets/Hand Wave.gif" width='40' align="left"/><h2>Hey there! I'm Zul </h2>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
