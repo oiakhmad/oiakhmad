@@ -1,4 +1,4 @@
-<img alt="Night Coding" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" align="right"/>
+<img alt="Night Coding" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" align="right" width="50" height ="50"/>
 <img alt="Night Coding" src="./assets/Hand Wave.gif" width='40' align="left"/><h2>Hey there! I'm Zul </h2>
 
 ### 👨🏻‍💻 &nbsp;About Me
@@ -54,7 +54,6 @@ the user experience.
 <p align="center">
 <a href="https://www.linkedin.com/in/akhmad-zulkarnain-258b45177/" target="_blank"><img src="https://img.shields.io/badge/-Akhmad Zulkarnain-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:akhmad.py@gmail.com"><img src="https://img.shields.io/badge/-akhmad.py@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/candrasujarwadi/" target="_blank"><img src="https://img.shields.io/badge/-@candrasujarwadi-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
 
 <!-- - 🔭 I’m currently working on ...  -->
