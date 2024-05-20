@@ -11,7 +11,7 @@ integration to create efficient and user-friendly solutions. I am confident \
 in my abilities and experience to deliver high-quality code and enhance \
 the user experience. 
 
-📫 &nbsp;Please feel free to contact me for consulting or volunteering opportunities, or simply for an engaging discussion. You can reach me via email akhmad.py@gmail.com .\
+📫 &nbsp;Please feel free to contact me for consulting or volunteering opportunities, or simply for an engaging discussion. You can reach me via email akhmad.py@gmail.com 
 
 <img align='right' src="./assets/fire.gif" width="200">
 
@@ -65,4 +65,4 @@ the user experience.
 <!-- - 📫 How to reach me: ...  -->
 <!-- - 😄 Pronouns: ...  -->
 <!-- - ⚡ Fun fact: ...  -->
--->
+
