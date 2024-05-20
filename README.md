@@ -1,4 +1,4 @@
-<img alt="Night Coding" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" align="right" width="100" height ="200"/>
+<img alt="Night Coding" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" align="right" width="300" height ="500"/>
 <img alt="Night Coding" src="./assets/Hand Wave.gif" width='40' align="left"/><h2>Hey there! I'm Zul </h2>
 
 ### 👨🏻‍💻 &nbsp;About Me
