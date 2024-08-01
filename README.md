@@ -1,4 +1,4 @@
-<img alt="Night Coding" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" align="right" width="350" height ="300"/>
+<img alt="Night Coding" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" align="right" width="350" height ="290"/>
 <img alt="Night Coding" src="./assets/Hand Wave.gif" width='40' align="left"/><h2>Hey there! I'm Zul </h2>
 
 ### 👨🏻‍💻 &nbsp;About Me
@@ -43,8 +43,8 @@ the user experience.
 
 <p align="center">
 <a href="https://github.com/oiakhmad">
-  <img height="199em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=oiakhmad&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="199em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=oiakhmad&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=oiakhmad&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=oiakhmad&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
