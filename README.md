@@ -46,7 +46,7 @@ the user experience.
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=oiakhmad&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <!-- <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=oiakhmad&layout=compact&langs_count=8&theme=algolia"/> -->
   <!-- only repository public -->
-  <img width="250em" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oiakhmad&langs_count=5&theme=algolia"/>
+  <img width="350em" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oiakhmad&langs_count=5&theme=algolia"/>
 </a>
 </p>
 
